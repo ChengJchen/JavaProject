@@ -1,0 +1,68 @@
+GO:0000003	reproduction	Biological Process
+GO:0008152	metabolic process	Biological Process
+GO:0001906	cell killing	Biological Process
+GO:0002376	immune system process	Biological Process
+GO:0040007	growth	Biological Process
+GO:0009987	cellular process	Biological Process
+GO:0022414	reproductive process	Biological Process
+GO:0022610	biological adhesion	Biological Process
+GO:0023052	signaling	Biological Process
+GO:0032501	multicellular organismal process	Biological Process
+GO:0032502	developmental process	Biological Process
+GO:0040011	locomotion	Biological Process
+GO:0044699	single-organism process	Biological Process
+GO:0044848	biological phase	Biological Process
+GO:0046879	hormone secretion	Biological Process
+GO:0048511	rhythmic process	Biological Process
+GO:0048518	positive regulation of biological process	Biological Process
+GO:0048519	negative regulation of biological process	Biological Process
+GO:0050789	regulation of biological process	Biological Process
+GO:0050896	response to stimulus	Biological Process
+GO:0051179	localization	Biological Process
+GO:0051704	multi-organism process	Biological Process
+GO:0065007	biological regulation	Biological Process
+GO:0071840	cellular component organization or biogenesis	Biological Process
+GO:0016020	membrane	Cell Component
+GO:0005576	extracellular region	Cell Component
+GO:0005581	collagen trimer	Cell Component
+GO:0005623	cell	Cell Component
+GO:0009295	nucleoid	Cell Component
+GO:0019012	virion	Cell Component
+GO:0030054	cell junction	Cell Component
+GO:0031012	extracellular matrix	Cell Component
+GO:0031974	membrane-enclosed lumen	Cell Component
+GO:0032991	macromolecular complex	Cell Component
+GO:0039679	viral oCell Componentlusion body	Cell Component
+GO:0043226	organelle	Cell Component
+GO:0044420	extracellular matrix part	Cell Component
+GO:0044421	extracellular region part	Cell Component
+GO:0044422	organelle part	Cell Component
+GO:0044423	virion part	Cell Component
+GO:0044425	membrane part	Cell Component
+GO:0044456	synapse part	Cell Component
+GO:0044464	cell part	Cell Component
+GO:0045202	synapse	Cell Component
+GO:0055044	symplast	Cell Component
+GO:0097423	mitochondrion-associated adherens complex	Cell Component
+GO:0009055	electron carrier activity	Moleculer Function
+GO:0000988	protein binding transcription factor activity	Moleculer Function
+GO:0001071	nucleic acid binding transcription factor activity	Moleculer Function
+GO:0003824	catalytic activity	Moleculer Function
+GO:0004872	receptor activity	Moleculer Function
+GO:0005085	guanyl-nucleotide exchange factor activity	Moleculer Function
+GO:0045735	nutrient reservoir activity	Moleculer Function
+GO:0005198	structural molecule activity	Moleculer Function
+GO:0005215	transporter activity	Moleculer Function
+GO:0005488	binding	Moleculer Function
+GO:0031386	protein tag	Moleculer Function
+GO:0016015	morphogen activity	Moleculer Function
+GO:0016209	antioxidant activity	Moleculer Function
+GO:0016247	channel regulator activity	Moleculer Function
+GO:0016530	metallochaperone activity	Moleculer Function
+GO:0030234	enzyme regulator activity	Moleculer Function
+GO:0030545	receptor regulator activity	Moleculer Function
+GO:0036370	D-alanyl carrier activity	Moleculer Function
+GO:0042056	chemoattractant activity	Moleculer Function
+GO:0045182	translation regulator activity	Moleculer Function
+GO:0045499	chemorepellent activity	Moleculer Function
+GO:0060089	molecular transducer activity	Moleculer Function
